@@ -86,6 +86,7 @@ p {
 }
 .high {
   display: flex;
+    background-color: rgb(18, 18, 62);
 }
 .high li a {
   margin-right: 30px;
