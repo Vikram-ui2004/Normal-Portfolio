@@ -237,10 +237,7 @@ p {
 .su:hover {
   background-color: rgb(31, 59, 31);
 }
-#endstate{
-  background-color: purple;
-  width: 100%;
-}
+
 
 @media (max-width: 1080px) {
   .middd {
