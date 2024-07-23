@@ -237,6 +237,9 @@ p {
 .su:hover {
   background-color: rgb(31, 59, 31);
 }
+.num a{
+  text-decoration: none;
+}
 
 
 @media (max-width: 1080px) {
