@@ -3,7 +3,7 @@
   color: white;
 }
 body {
-  background: rgba(0, 0, 0, 0.842);
+  background-color: rgb(0, 0, 33);
 
   background-position: center center;
 }
@@ -178,6 +178,7 @@ p {
   margin-top: 2rem;
   color: black;
   margin-left: 0.5rem;
+   margin-bottom: 100px;
 }
 .name {
   height: 40px;
@@ -234,7 +235,10 @@ p {
 .su:hover {
   background-color: rgb(31, 59, 31);
 }
-
+#endstate{
+  background-color: purple;
+  width: 100%;
+}
 
 @media (max-width: 1080px) {
   .middd {
@@ -295,6 +299,8 @@ p {
   justify-content: center;
   align-items: center;
 }
+
+
 
 @media (max-width: 420px) {
   .middd {
